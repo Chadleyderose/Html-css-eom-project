@@ -11,4 +11,5 @@
     padding: 10px;
     list-style: none;
     display: ruby-base-container;
+    place-content:end center;
 }
